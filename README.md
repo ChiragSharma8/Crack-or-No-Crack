@@ -10,7 +10,7 @@ Crack segmentation is an important task in structure investigation problems. For
 
 # Dataset
 
-From my knowledge, the dataset used in the project is the largest crack segmentation dataset so far. It contains 40k cracked and no-cracked images.
+From my knowledge, the dataset used in the project is the largest crack segmentation dataset so far. It contains 20k cracked and 20k no-cracked images.
 (https://www.kaggle.com/thesighsrikar/concrete-crack-images-for-classification) link for dataset. I have also added some more cracked images in the dataset.
 
 
